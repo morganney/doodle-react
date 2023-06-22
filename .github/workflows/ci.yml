@@ -32,4 +32,4 @@ jobs:
       - name: Test
         run: npm test
       - name: Pack
-        run: npm pack --pack-destination=packages/react-doodle --workspace=react-doodle
+        run: npm pack --pack-destination=packages/doodle-react --workspace=doodle-react

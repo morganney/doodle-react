@@ -1,6 +1,6 @@
-# [`react-doodle`](https://www.npmjs.com/package/react-doodle)
+# [`doodle-react`](https://www.npmjs.com/package/doodle-react)
 
-Monorepository for `react-doodle`, a responsive canvas drawing component with Data URL and Blob exports.
+Monorepository for `doodle-react`, a responsive canvas drawing component with Data URL and Blob exports.
 
 ## Install
 
@@ -8,10 +8,10 @@ Monorepository for `react-doodle`, a responsive canvas drawing component with Da
 
 ## Table of Contents
 
-* [react-doodle](./packages/react-doodle)
+* [doodle-react](./packages/doodle-react)
 * [storybook](./packages/story)
 
 ## Demo (Storybook)
 
 (TODO)
-[morganney.github.io/react-doodle](https://morganney.github.io/react-doodle/)
+[morganney.github.io/doodle-react](https://morganney.github.io/doodle-react/)

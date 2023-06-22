@@ -28,9 +28,9 @@ jobs:
       - name: Test
         run: npm test
       - name: Pack
-        run: npm pack --pack-destination=packages/react-doodle --workspace=react-doodle
+        run: npm pack --pack-destination=packages/doodle-react --workspace=doodle-react
       - name: Push to NPM registry
         uses: JS-DevTools/npm-publish@v2.1.0
         with:
           token: ${{ secrets.NPM_AUTH_TOKEN }}
-          package: packages/react-doodle
+          package: packages/doodle-react
