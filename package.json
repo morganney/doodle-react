@@ -1,5 +1,5 @@
 {
-  "name": "react-doodle-monorepo",
+  "name": "doodle-react-monorepo",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -8,7 +8,7 @@
     "npm": ">=9.5.1"
   },
   "workspaces": [
-    "packages/react-doodle",
+    "packages/doodle-react",
     "packages/story"
   ],
   "scripts": {
