@@ -1,6 +1,6 @@
 # [`react-doodle`](https://www.npmjs.com/package/react-doodle)
 
-React responsive canvas drawing component with Data URL and Blob exports.
+Monorepository for `react-doodle`, a responsive canvas drawing component with Data URL and Blob exports.
 
 ## Install
 
